@@ -8,10 +8,7 @@
     $areaRect=$largura*$altura;
     $perim=2*($largura+$altura);
     echo "Area do Circulo = $areaCirc <br><br>";
-    //echo "<br><br>";
     echo "Circunferencia do Circulo = $circunf <br><br>";
-    //echo "<br><br>";
     echo "Area do Retangulo = $areaRect <br><br>";
-    //echo "<br><br>";
     echo "Perimetro do Retangulo = $perim";
 ?>
